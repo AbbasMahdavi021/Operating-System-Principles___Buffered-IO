@@ -8,15 +8,20 @@ Let me remind you of the expectations.  Code should be neat, well documented.  V
 
 ```
 /**************************************************************
-* Class:  CSC-415-0# Fall 2022
-* Name:
-* Student ID:
-* GitHub UserID:
-* Project: Assignment 5 – Buffered I/O read
+* Class:  CSC-415-0# Summer 2022
+* Name: Abbas Mahdavi   
+* Student ID: 9182***420
+* GitHub UserID: AbbasMahdavi021
+* Project: Assignment 5 – Buffered I/O
 *
-* File: <name of this file>
+* File: Mahdavi_Abbas_HW5_main.c
 *
-* Description:
+*
+* Description: Implementing file input/output operations 
+using low-level APIs. Functions include b_open to open 
+a file and allocate a buffer, b_read to read data in 
+chunks and copy to caller's buffer, and b_close to free 
+resources. Main program demonstrates reading multiple files.
 *
 **************************************************************/
 ```
